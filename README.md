@@ -1,5 +1,7 @@
 
 # Hi there 👋
+i am jala Rezaei Moghadam !
+I am an electrical engineer, active in the field of telecommunications and electronics, and I am always looking for new technologies.
 
 ## Specialties
 
