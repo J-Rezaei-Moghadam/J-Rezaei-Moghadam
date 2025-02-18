@@ -1,10 +1,23 @@
+
 ## Hi there 👋
 
 # Specialties
-- C
-- Python
-- Matlab
 
+- Programming
+  - C
+  - Python
+  - Matlab
+
+- Embeded System
+  - Arduino
+  - AVR
+  - ARM
+  - Raspberry Pi
+  - FPGA
+
+- Electeronic
+  - Altium Designer
+  - Poteus
   
 
 
