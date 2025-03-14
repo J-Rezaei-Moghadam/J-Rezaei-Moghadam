@@ -19,7 +19,7 @@ I am an electrical engineer, active in the field of telecommunications and elect
 
 - Electeronic
   - Altium Designer
-  - Poteus
+  - Proteus
   
 
 
