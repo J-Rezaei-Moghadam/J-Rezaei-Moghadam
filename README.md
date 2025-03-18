@@ -26,7 +26,7 @@
 
 ## Contact
 <div> 
-  <a href="https://telegram.com/j.rezaei.moghadam" target="_blank">
+  <a href="https://t.me/J_Rezaei_Moghadam" target="_blank">
     <img height=40 width=40 src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-logo-icon-download-in-svg-png-gif-file-formats--message-fax-social-media-pack-logos-icons-1583137.png?f=webp&w=512" target="_blank"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
     <img height=40 width=40 src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--major-websites-set-pack-logos-icons-461814.png?f=webp&w=512" target="_blank"></a>
